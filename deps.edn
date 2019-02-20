@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps  {org.clojure/clojure    {:mvn/version "1.10.0"}
+         org.clojure/spec.alpha {:mvn/version "0.1.123"}
+         better-cond            {:mvn/version "2.0.1-SNAPSHOT"}
+         aysylu/loom            {:mvn/version "1.0.2"}
+         medley                 {:mvn/version "0.8.3"}}}
